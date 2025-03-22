@@ -1,0 +1,38 @@
+body{
+    padding: 25px;
+}
+*{
+    box-sizing:border-box;
+}
+
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 50px solid rgba(106, 78, 78, 0.686);
+    border-radius: 50px;
+}
+.image{
+    float: right;
+    width: 900px;
+    height: 700px;
+}
+.item{
+    height: 400px;
+    width: 500px;
+    padding: 50px;
+    font-size: 15px;
+
+}
+.harry{
+    height: 850px;
+    width: 850px;
+}
+.hom{
+    height: 850px;
+    width: 850px;
+}
+
+
